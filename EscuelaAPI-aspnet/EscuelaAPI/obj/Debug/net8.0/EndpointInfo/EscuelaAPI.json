@@ -1,0 +1,2347 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "EscuelaAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Acceso/Registrar/Operador": {
+      "post": {
+        "tags": [
+          "Acceso"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "turnoLaboral": {
+                    "type": "string"
+                  },
+                  "nombreUsuario": {
+                    "type": "string"
+                  },
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "apellido": {
+                    "type": "string"
+                  },
+                  "correo": {
+                    "type": "string"
+                  },
+                  "clave": {
+                    "type": "string"
+                  },
+                  "direccion": {
+                    "type": "string"
+                  },
+                  "telefono": {
+                    "type": "string"
+                  },
+                  "imagen": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "turnoLaboral": {
+                  "style": "form"
+                },
+                "nombreUsuario": {
+                  "style": "form"
+                },
+                "nombre": {
+                  "style": "form"
+                },
+                "apellido": {
+                  "style": "form"
+                },
+                "correo": {
+                  "style": "form"
+                },
+                "clave": {
+                  "style": "form"
+                },
+                "direccion": {
+                  "style": "form"
+                },
+                "telefono": {
+                  "style": "form"
+                },
+                "imagen": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Editar/Operador/{id}": {
+      "put": {
+        "tags": [
+          "Acceso"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "turnoLaboral": {
+                    "type": "string"
+                  },
+                  "nombreUsuario": {
+                    "type": "string"
+                  },
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "apellido": {
+                    "type": "string"
+                  },
+                  "correo": {
+                    "type": "string"
+                  },
+                  "clave": {
+                    "type": "string"
+                  },
+                  "direccion": {
+                    "type": "string"
+                  },
+                  "telefono": {
+                    "type": "string"
+                  },
+                  "imagen": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "turnoLaboral": {
+                  "style": "form"
+                },
+                "nombreUsuario": {
+                  "style": "form"
+                },
+                "nombre": {
+                  "style": "form"
+                },
+                "apellido": {
+                  "style": "form"
+                },
+                "correo": {
+                  "style": "form"
+                },
+                "clave": {
+                  "style": "form"
+                },
+                "direccion": {
+                  "style": "form"
+                },
+                "telefono": {
+                  "style": "form"
+                },
+                "imagen": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Registrar/Estudiante": {
+      "post": {
+        "tags": [
+          "Acceso"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "idCurso",
+                  "tutor"
+                ],
+                "type": "object",
+                "properties": {
+                  "tutor": {
+                    "maxLength": 100,
+                    "minLength": 0,
+                    "type": "string"
+                  },
+                  "idCurso": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "nombreUsuario": {
+                    "type": "string"
+                  },
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "apellido": {
+                    "type": "string"
+                  },
+                  "correo": {
+                    "type": "string"
+                  },
+                  "clave": {
+                    "type": "string"
+                  },
+                  "direccion": {
+                    "type": "string"
+                  },
+                  "telefono": {
+                    "type": "string"
+                  },
+                  "imagen": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "tutor": {
+                  "style": "form"
+                },
+                "idCurso": {
+                  "style": "form"
+                },
+                "nombreUsuario": {
+                  "style": "form"
+                },
+                "nombre": {
+                  "style": "form"
+                },
+                "apellido": {
+                  "style": "form"
+                },
+                "correo": {
+                  "style": "form"
+                },
+                "clave": {
+                  "style": "form"
+                },
+                "direccion": {
+                  "style": "form"
+                },
+                "telefono": {
+                  "style": "form"
+                },
+                "imagen": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Editar/Estudiante/{id}": {
+      "put": {
+        "tags": [
+          "Acceso"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "idCurso",
+                  "tutor"
+                ],
+                "type": "object",
+                "properties": {
+                  "tutor": {
+                    "maxLength": 100,
+                    "minLength": 0,
+                    "type": "string"
+                  },
+                  "idCurso": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "nombreUsuario": {
+                    "type": "string"
+                  },
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "apellido": {
+                    "type": "string"
+                  },
+                  "correo": {
+                    "type": "string"
+                  },
+                  "clave": {
+                    "type": "string"
+                  },
+                  "direccion": {
+                    "type": "string"
+                  },
+                  "telefono": {
+                    "type": "string"
+                  },
+                  "imagen": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "tutor": {
+                  "style": "form"
+                },
+                "idCurso": {
+                  "style": "form"
+                },
+                "nombreUsuario": {
+                  "style": "form"
+                },
+                "nombre": {
+                  "style": "form"
+                },
+                "apellido": {
+                  "style": "form"
+                },
+                "correo": {
+                  "style": "form"
+                },
+                "clave": {
+                  "style": "form"
+                },
+                "direccion": {
+                  "style": "form"
+                },
+                "telefono": {
+                  "style": "form"
+                },
+                "imagen": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Obtener/Estudiante/{id}": {
+      "get": {
+        "tags": [
+          "Acceso"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Registrar/Docente": {
+      "post": {
+        "tags": [
+          "Acceso"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "especialidad"
+                ],
+                "type": "object",
+                "properties": {
+                  "especialidad": {
+                    "maxLength": 50,
+                    "minLength": 0,
+                    "type": "string"
+                  },
+                  "nombreUsuario": {
+                    "type": "string"
+                  },
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "apellido": {
+                    "type": "string"
+                  },
+                  "correo": {
+                    "type": "string"
+                  },
+                  "clave": {
+                    "type": "string"
+                  },
+                  "direccion": {
+                    "type": "string"
+                  },
+                  "telefono": {
+                    "type": "string"
+                  },
+                  "imagen": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "especialidad": {
+                  "style": "form"
+                },
+                "nombreUsuario": {
+                  "style": "form"
+                },
+                "nombre": {
+                  "style": "form"
+                },
+                "apellido": {
+                  "style": "form"
+                },
+                "correo": {
+                  "style": "form"
+                },
+                "clave": {
+                  "style": "form"
+                },
+                "direccion": {
+                  "style": "form"
+                },
+                "telefono": {
+                  "style": "form"
+                },
+                "imagen": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Editar/Docente/{id}": {
+      "put": {
+        "tags": [
+          "Acceso"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "especialidad"
+                ],
+                "type": "object",
+                "properties": {
+                  "especialidad": {
+                    "maxLength": 50,
+                    "minLength": 0,
+                    "type": "string"
+                  },
+                  "nombreUsuario": {
+                    "type": "string"
+                  },
+                  "nombre": {
+                    "type": "string"
+                  },
+                  "apellido": {
+                    "type": "string"
+                  },
+                  "correo": {
+                    "type": "string"
+                  },
+                  "clave": {
+                    "type": "string"
+                  },
+                  "direccion": {
+                    "type": "string"
+                  },
+                  "telefono": {
+                    "type": "string"
+                  },
+                  "imagen": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "especialidad": {
+                  "style": "form"
+                },
+                "nombreUsuario": {
+                  "style": "form"
+                },
+                "nombre": {
+                  "style": "form"
+                },
+                "apellido": {
+                  "style": "form"
+                },
+                "correo": {
+                  "style": "form"
+                },
+                "clave": {
+                  "style": "form"
+                },
+                "direccion": {
+                  "style": "form"
+                },
+                "telefono": {
+                  "style": "form"
+                },
+                "imagen": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Obtener/Docente/{id}": {
+      "get": {
+        "tags": [
+          "Acceso"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Acceso/Login": {
+      "post": {
+        "tags": [
+          "Acceso"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Asistencia/academico/asistencia/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Asistencia"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/AsistenciaDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/AsistenciaDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/AsistenciaDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Calificacion/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Calificacion"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Calificacion"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Calificacion"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Calificacion"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Calificacion/materias/{idDocente}": {
+      "get": {
+        "tags": [
+          "Calificacion"
+        ],
+        "parameters": [
+          {
+            "name": "idDocente",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Materia"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Materia"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Materia"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Calificacion/listarEstudiantes/{docenteId}/{materiaId}": {
+      "get": {
+        "tags": [
+          "Calificacion"
+        ],
+        "parameters": [
+          {
+            "name": "docenteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "materiaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/EstudiantePorMateriaDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/EstudiantePorMateriaDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/EstudiantePorMateriaDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Calificacion/Registrar": {
+      "post": {
+        "tags": [
+          "Calificacion"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Calificacion"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Calificacion"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Calificacion"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Calificacion"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Calificacion"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Calificacion"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Curso/listar": {
+      "get": {
+        "tags": [
+          "Curso"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Docente/listarDocente": {
+      "get": {
+        "tags": [
+          "Docente"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Estudiante/listar": {
+      "get": {
+        "tags": [
+          "Estudiante"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Estudiante/ObtenerE/{id}": {
+      "get": {
+        "tags": [
+          "Estudiante"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Estudiante/horarioPorEstudiante/{idEstudiante}": {
+      "get": {
+        "tags": [
+          "Estudiante"
+        ],
+        "parameters": [
+          {
+            "name": "idEstudiante",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Examen/academico/examenes/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Examen"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ExamenDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ExamenDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ExamenDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Examen/academico/alertaexamen/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Examen"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ExamenDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ExamenDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ExamenDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/GenerarBoletin/boletin/{idEstudiante}": {
+      "get": {
+        "tags": [
+          "GenerarBoletin"
+        ],
+        "parameters": [
+          {
+            "name": "idEstudiante",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Horario/designarHorario": {
+      "post": {
+        "tags": [
+          "Horario"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Horario"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Horario"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Horario"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Horario"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Horario"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Horario"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Horario/listarHorarios": {
+      "get": {
+        "tags": [
+          "Horario"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Horario/editarHorario/{idHorario}": {
+      "put": {
+        "tags": [
+          "Horario"
+        ],
+        "parameters": [
+          {
+            "name": "idHorario",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Horario"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Horario"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Horario"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Horario/ObtenerHorario/{id}": {
+      "get": {
+        "tags": [
+          "Horario"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Horario/academico/horario/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Horario"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/HorarioDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/HorarioDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/HorarioDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Materia/listar": {
+      "get": {
+        "tags": [
+          "Materia"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mensaje/listarDocentesSegunEstudiantes/{idEstudiante}": {
+      "get": {
+        "tags": [
+          "Mensaje"
+        ],
+        "parameters": [
+          {
+            "name": "idEstudiante",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mensaje/obtenerDocenteEspecifico/{idEstudiante}/{idDocente}": {
+      "get": {
+        "tags": [
+          "Mensaje"
+        ],
+        "parameters": [
+          {
+            "name": "idEstudiante",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idDocente",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mensaje/docente/{idDocente}": {
+      "get": {
+        "tags": [
+          "Mensaje"
+        ],
+        "parameters": [
+          {
+            "name": "idDocente",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mensaje/{idEstudiante}/{idDocente}": {
+      "post": {
+        "tags": [
+          "Mensaje"
+        ],
+        "parameters": [
+          {
+            "name": "idEstudiante",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idDocente",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "Asunto",
+                  "ContenidoMensaje",
+                  "Reunion"
+                ],
+                "type": "object",
+                "properties": {
+                  "Asunto": {
+                    "maxLength": 100,
+                    "minLength": 5,
+                    "type": "string"
+                  },
+                  "Reunion": {
+                    "type": "boolean"
+                  },
+                  "ContenidoMensaje": {
+                    "maxLength": 500,
+                    "minLength": 10,
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Asunto": {
+                  "style": "form"
+                },
+                "Reunion": {
+                  "style": "form"
+                },
+                "ContenidoMensaje": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mensaje/reunion/{idMensaje}": {
+      "put": {
+        "tags": [
+          "Mensaje"
+        ],
+        "parameters": [
+          {
+            "name": "idMensaje",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ResponderReunionDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ResponderReunionDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ResponderReunionDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Mensaje/estudiante/{idEstudiante}": {
+      "get": {
+        "tags": [
+          "Mensaje"
+        ],
+        "parameters": [
+          {
+            "name": "idEstudiante",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pago/pendientes/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Pago"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PagoDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PagoDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PagoDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Pago/pagados/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Pago"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PagoDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PagoDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PagoDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Pago/pagar/{pagoId}": {
+      "put": {
+        "tags": [
+          "Pago"
+        ],
+        "parameters": [
+          {
+            "name": "pagoId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PagoDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PagoDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PagoDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Pago/comprobante/{pagoId}": {
+      "get": {
+        "tags": [
+          "Pago"
+        ],
+        "parameters": [
+          {
+            "name": "pagoId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PagoDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PagoDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PagoDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Pago/proximos/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Pago"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ProximoPagoDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ProximoPagoDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ProximoPagoDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Pago/alertas/{estudianteId}": {
+      "get": {
+        "tags": [
+          "Pago"
+        ],
+        "parameters": [
+          {
+            "name": "estudianteId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/AlertaPagoDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AlertaPagoDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AlertaPagoDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AlertaPagoDTO": {
+        "type": "object",
+        "properties": {
+          "vencidos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PagoDTO"
+            },
+            "nullable": true
+          },
+          "proximos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ProximoPagoDTO"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "AsistenciaDTO": {
+        "type": "object",
+        "properties": {
+          "fecha": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          },
+          "diaSemana": {
+            "type": "string",
+            "nullable": true
+          },
+          "materia": {
+            "type": "string",
+            "nullable": true
+          },
+          "docente": {
+            "type": "string",
+            "nullable": true
+          },
+          "horaInicio": {
+            "type": "string",
+            "format": "date-span",
+            "nullable": true
+          },
+          "horaFin": {
+            "type": "string",
+            "format": "date-span"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Calificacion": {
+        "required": [
+          "fechaRegistro",
+          "nota"
+        ],
+        "type": "object",
+        "properties": {
+          "idCalificacion": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nota": {
+            "maximum": 100,
+            "minimum": 0,
+            "type": "integer",
+            "format": "int32"
+          },
+          "comentarios": {
+            "type": "string",
+            "nullable": true
+          },
+          "idEstudiante": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idCurso": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "fechaRegistro": {
+            "type": "string",
+            "format": "date"
+          },
+          "estudiante": {
+            "$ref": "#/components/schemas/Estudiante"
+          },
+          "idMateria": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "materia": {
+            "$ref": "#/components/schemas/Materia"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ClaseDTO": {
+        "type": "object",
+        "properties": {
+          "horaInicio": {
+            "type": "string",
+            "format": "date-span"
+          },
+          "horaFin": {
+            "type": "string",
+            "format": "date-span"
+          },
+          "nombreMateria": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombreDocente": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Curso": {
+        "type": "object",
+        "properties": {
+          "idCurso": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreCurso": {
+            "type": "string",
+            "nullable": true
+          },
+          "turno": {
+            "type": "string",
+            "nullable": true
+          },
+          "estudiantes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Estudiante"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Docente": {
+        "type": "object",
+        "properties": {
+          "idUsuario": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreUsuario": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "nombre": {
+            "maxLength": 30,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "apellido": {
+            "maxLength": 40,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "correo": {
+            "maxLength": 40,
+            "minLength": 0,
+            "type": "string",
+            "format": "email",
+            "nullable": true
+          },
+          "password": {
+            "maxLength": 255,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "direccion": {
+            "maxLength": 200,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "telefono": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string",
+            "format": "tel",
+            "nullable": true
+          },
+          "rol": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "imagenPath": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaRegistro": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "activo": {
+            "type": "boolean"
+          },
+          "especialidad": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Estudiante": {
+        "type": "object",
+        "properties": {
+          "idUsuario": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreUsuario": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "nombre": {
+            "maxLength": 30,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "apellido": {
+            "maxLength": 40,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "correo": {
+            "maxLength": 40,
+            "minLength": 0,
+            "type": "string",
+            "format": "email",
+            "nullable": true
+          },
+          "password": {
+            "maxLength": 255,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "direccion": {
+            "maxLength": 200,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "telefono": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string",
+            "format": "tel",
+            "nullable": true
+          },
+          "rol": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "imagenPath": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaRegistro": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "activo": {
+            "type": "boolean"
+          },
+          "tutor": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "idCurso": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "curso": {
+            "$ref": "#/components/schemas/Curso"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EstudiantePorMateriaDTO": {
+        "type": "object",
+        "properties": {
+          "idUsuario": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "apellido": {
+            "type": "string",
+            "nullable": true
+          },
+          "idCurso": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreCurso": {
+            "type": "string",
+            "nullable": true
+          },
+          "idMateria": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreMateria": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ExamenDTO": {
+        "type": "object",
+        "properties": {
+          "fechaExamen": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "nombreMateria": {
+            "type": "string",
+            "nullable": true
+          },
+          "horaInicio": {
+            "type": "string",
+            "format": "date-span"
+          },
+          "horaFin": {
+            "type": "string",
+            "format": "date-span"
+          },
+          "diaSemana": {
+            "type": "string",
+            "nullable": true
+          },
+          "diasRestantes": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Horario": {
+        "required": [
+          "diaSemana"
+        ],
+        "type": "object",
+        "properties": {
+          "idHorario": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "diaSemana": {
+            "maxLength": 15,
+            "minLength": 3,
+            "type": "string"
+          },
+          "horaInicio": {
+            "type": "string",
+            "format": "time",
+            "nullable": true
+          },
+          "horaFin": {
+            "type": "string",
+            "format": "time",
+            "nullable": true
+          },
+          "idCurso": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "curso": {
+            "$ref": "#/components/schemas/Curso"
+          },
+          "idDocente": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "docente": {
+            "$ref": "#/components/schemas/Docente"
+          },
+          "idMateria": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "materia": {
+            "$ref": "#/components/schemas/Materia"
+          }
+        },
+        "additionalProperties": false
+      },
+      "HorarioDTO": {
+        "type": "object",
+        "properties": {
+          "diaSemana": {
+            "type": "string",
+            "nullable": true
+          },
+          "clases": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ClaseDTO"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginDTO": {
+        "type": "object",
+        "properties": {
+          "correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "clave": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Materia": {
+        "required": [
+          "descripcion",
+          "nombreMateria"
+        ],
+        "type": "object",
+        "properties": {
+          "idMateria": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombreMateria": {
+            "maxLength": 40,
+            "minLength": 3,
+            "type": "string"
+          },
+          "descripcion": {
+            "maxLength": 200,
+            "minLength": 3,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "PagoDTO": {
+        "type": "object",
+        "properties": {
+          "idPago": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monto": {
+            "type": "number",
+            "format": "float"
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          },
+          "fecha": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "nombreEstudiante": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProximoPagoDTO": {
+        "type": "object",
+        "properties": {
+          "fechaProximo": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "monto": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ResponderReunionDto": {
+        "required": [
+          "aceptada"
+        ],
+        "type": "object",
+        "properties": {
+          "aceptada": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

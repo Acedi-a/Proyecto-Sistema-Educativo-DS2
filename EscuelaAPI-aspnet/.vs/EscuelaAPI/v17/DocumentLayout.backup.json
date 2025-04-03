@@ -1,0 +1,1165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\generarboletincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\generarboletincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\estudiantepormateriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\estudiantepormateriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\mensajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\mensajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\mensajedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\mensajedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\data\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\data\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250402021102_nuevoestadomensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250402021102_nuevoestadomensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250330204921_nuevoatributo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250330204921_nuevoatributo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\horariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\horariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\asistenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\asistenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\examendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\examendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\docentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\docentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\operadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\operadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\dtos\\estudiantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\dtos\\estudiantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\examen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\examen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171507_reporte_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328171507_reporte_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171409_reporte_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328171409_reporte_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328115553_calificacion_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328115553_calificacion_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328113128_asistencia_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328113128_asistencia_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328034956_normalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328034956_normalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328000842_imagen-propiedad-string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328000842_imagen-propiedad-string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\modelo\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\modelo\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328021021_cambiar_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328021021_cambiar_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328020116_CambiarNombreColumna_versio_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328020116_CambiarNombreColumna_versio_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328015059_CambiarNombreColumna_versio_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328015059_CambiarNombreColumna_versio_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328014720_CambiarNombreColumna_versio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328014720_CambiarNombreColumna_versio_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328014344_CambiarNombreColumna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250328014344_CambiarNombreColumna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\wwwroot\\uploads\\usuarios\\9c8e41d9-e766-46e1-9a96-ce49ecf70809.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\wwwroot\\uploads\\usuarios\\9c8e41d9-e766-46e1-9a96-ce49ecf70809.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250327225649_Usuario-operador-imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250327225649_Usuario-operador-imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326214816_dbSetUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250326214816_dbSetUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326213849_Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EscuelaAPI\\Migrations\\20250326213849_Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250326225847_arreglar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250326225847_arreglar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250326224050_modelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250326224050_modelado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250327232750_usuario-operador-imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250327232750_usuario-operador-imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328115712_calificacion_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328115712_calificacion_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328113909_asistencia_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328113909_asistencia_correcta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328111438_intentarunir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328111438_intentarunir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328173127_examentabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328173127_examentabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328172829_mensaje_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328172829_mensaje_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328172500_pago_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328172500_pago_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328172124_certificadi_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328172124_certificadi_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|c:\\users\\chaqu\\onedrive\\escritorio\\asp net clases\\escuelaapi\\escuelaapi\\migrations\\20250328171643_reporte_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0F4BB-4587-470E-A580-10117513FFF4}|EscuelaAPI\\EscuelaAPI.csproj|solutionrelative:escuelaapi\\migrations\\20250328171643_reporte_correcto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantePorMateriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\EstudiantePorMateriaDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\EstudiantePorMateriaDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\EstudiantePorMateriaDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\EstudiantePorMateriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:19:40.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalificacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\CalificacionController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\CalificacionController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\CalificacionController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\CalificacionController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:16:21.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MensajeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\MensajeDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\MensajeDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\MensajeDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\MensajeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:13:39.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MensajeController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\MensajeController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\MensajeController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\MensajeController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\MensajeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAANMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:12:27.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250402021102_nuevoEstadoMensaje.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250402021102_nuevoEstadoMensaje.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250402021102_nuevoEstadoMensaje.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250402021102_nuevoEstadoMensaje.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250402021102_nuevoEstadoMensaje.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:11:03.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Calificacion.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Calificacion.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Calificacion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:43:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerarBoletinController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\GenerarBoletinController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\GenerarBoletinController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\GenerarBoletinController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\GenerarBoletinController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:21:59.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HorarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\HorarioController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\HorarioController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\HorarioController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\HorarioController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAcwKoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:34:29.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Program.cs",
+              "RelativeToolTip": "EscuelaAPI\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:43:38.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAcwPABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:31:22.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250330204921_NuevoAtributo.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250330204921_NuevoAtributo.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250330204921_NuevoAtributo.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250330204921_NuevoAtributo.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250330204921_NuevoAtributo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:49:21.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Data\\DbConexion.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Data\\DbConexion.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Data\\DbConexion.cs",
+              "RelativeToolTip": "EscuelaAPI\\Data\\DbConexion.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:41:59.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OperadorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\OperadorDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\OperadorDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\OperadorDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\OperadorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:53:09.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AsistenciaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\AsistenciaDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\AsistenciaDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\AsistenciaDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\AsistenciaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:33:35.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\AsistenciaController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\AsistenciaController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\AsistenciaController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAMwDAAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:35:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Mensaje.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Mensaje.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Mensaje.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Mensaje.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:26:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\PagoController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:48:38.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EscuelaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\appsettings.json",
+              "RelativeToolTip": "EscuelaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T22:17:38.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExamenController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\ExamenController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\ExamenController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\ExamenController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\ExamenController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFQAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:41:47.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:30:28.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Asistencia.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Asistencia.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:25:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExamenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\ExamenDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\ExamenDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\ExamenDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\ExamenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:34:40.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PagoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\PagoDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\PagoDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\PagoDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\PagoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:34:44.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Pago.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Pago.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Pago.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:22:50.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:49:28.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DocenteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\DocenteDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\DocenteDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\DocenteDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\DocenteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:25:17.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:29:36.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:47:48.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:08:56.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DocenteController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\DocenteController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\DocenteController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\DocenteController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\DocenteController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:00:55.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Examen.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Examen.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Examen.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Examen.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Examen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:30:34.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EstudianteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\EstudianteDTO.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\DTOs\\EstudianteDTO.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\DTOs\\EstudianteDTO.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\DTOs\\EstudianteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:20:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Curso.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Curso.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Curso.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:31:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Horario.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Horario.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Horario.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Horario.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Horario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:37:16.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Docente.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Docente.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Docente.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:36:30.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Estudiante.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Estudiante.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Estudiante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:21:52.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Materia.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Materia.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Materia.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:37:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Reporte.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Reporte.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Reporte.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Reporte.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:11:42.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MateriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\MateriaController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\MateriaController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\MateriaController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\MateriaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:48:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Certificado.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Certificado.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Certificado.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Certificado.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Certificado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:19:02.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EscuelaAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T14:14:50.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250328173127_examenTabla.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328173127_examenTabla.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328173127_examenTabla.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328173127_examenTabla.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328173127_examenTabla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:31:27.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250328172829_mensaje_correcto.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328172829_mensaje_correcto.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328172829_mensaje_correcto.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328172829_mensaje_correcto.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328172829_mensaje_correcto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:28:29.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250328172500_Pago_correcto.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328172500_Pago_correcto.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328172500_Pago_correcto.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328172500_Pago_correcto.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328172500_Pago_correcto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:25:01.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250328172124_certificadi_correcto.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328172124_certificadi_correcto.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328172124_certificadi_correcto.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328172124_certificadi_correcto.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328172124_certificadi_correcto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:21:25.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250328171643_reporte_correcto.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171643_reporte_correcto.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328171643_reporte_correcto.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171643_reporte_correcto.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328171643_reporte_correcto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:16:43.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250328171507_reporte_correcto.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171507_reporte_correcto.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328171507_reporte_correcto.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171507_reporte_correcto.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328171507_reporte_correcto.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:15:08.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250328171409_reporte_correcto.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171409_reporte_correcto.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328171409_reporte_correcto.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328171409_reporte_correcto.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328171409_reporte_correcto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:14:10.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Operador.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Operador.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Operador.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Operador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:38:46.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "EscuelaAPI\\Custom\\Utilidades.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:01:38.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EscuelaAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:23:51.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250328113128_asistencia_correcta.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328113128_asistencia_correcta.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328113128_asistencia_correcta.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328113128_asistencia_correcta.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328113128_asistencia_correcta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:31:28.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250328115712_calificacion_correcta.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328115712_calificacion_correcta.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328115712_calificacion_correcta.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328115712_calificacion_correcta.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328115712_calificacion_correcta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:57:13.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250328113909_asistencia_correcta.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328113909_asistencia_correcta.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328113909_asistencia_correcta.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328113909_asistencia_correcta.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328113909_asistencia_correcta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:39:09.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250328115553_calificacion_correcta.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328115553_calificacion_correcta.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328115553_calificacion_correcta.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328115553_calificacion_correcta.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328115553_calificacion_correcta.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:55:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250328111438_intentarUnir.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328111438_intentarUnir.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328111438_intentarUnir.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328111438_intentarUnir.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328111438_intentarUnir.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:14:38.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250328034956_normalizar.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328034956_normalizar.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328034956_normalizar.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328034956_normalizar.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328034956_normalizar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:49:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250328000842_imagen-Propiedad-string.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328000842_imagen-Propiedad-string.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328000842_imagen-Propiedad-string.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328000842_imagen-Propiedad-string.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328000842_imagen-Propiedad-string.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:08:43.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250328021021_cambiar_1.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328021021_cambiar_1.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328021021_cambiar_1.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328021021_cambiar_1.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328021021_cambiar_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:10:23.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Imagen.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Modelo\\Imagen.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Modelo\\Imagen.cs",
+              "RelativeToolTip": "EscuelaAPI\\Modelo\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:05:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250328020116_CambiarNombreColumna_versio_4.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328020116_CambiarNombreColumna_versio_4.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328020116_CambiarNombreColumna_versio_4.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328020116_CambiarNombreColumna_versio_4.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328020116_CambiarNombreColumna_versio_4.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:01:16.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250328015059_CambiarNombreColumna_versio_3.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328015059_CambiarNombreColumna_versio_3.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328015059_CambiarNombreColumna_versio_3.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328015059_CambiarNombreColumna_versio_3.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328015059_CambiarNombreColumna_versio_3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:51:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250328014720_CambiarNombreColumna_versio_2.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328014720_CambiarNombreColumna_versio_2.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328014720_CambiarNombreColumna_versio_2.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328014720_CambiarNombreColumna_versio_2.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328014720_CambiarNombreColumna_versio_2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:47:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250328014344_CambiarNombreColumna.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328014344_CambiarNombreColumna.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250328014344_CambiarNombreColumna.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250328014344_CambiarNombreColumna.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250328014344_CambiarNombreColumna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:43:44.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "9c8e41d9-e766-46e1-9a96-ce49ecf70809.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [229x220, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\wwwroot\\Uploads\\Usuarios\\9c8e41d9-e766-46e1-9a96-ce49ecf70809.jpg",
+              "RelativeDocumentMoniker": "EscuelaAPI\\wwwroot\\Uploads\\Usuarios\\9c8e41d9-e766-46e1-9a96-ce49ecf70809.jpg",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\wwwroot\\Uploads\\Usuarios\\9c8e41d9-e766-46e1-9a96-ce49ecf70809.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [229x220, 24 bits, JPG]",
+              "RelativeToolTip": "EscuelaAPI\\wwwroot\\Uploads\\Usuarios\\9c8e41d9-e766-46e1-9a96-ce49ecf70809.jpg -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [229x220, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-28T01:02:17.603Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Bitmap [229x220, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250327232750_Usuario-operador-imagen.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250327232750_Usuario-operador-imagen.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250327232750_Usuario-operador-imagen.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250327232750_Usuario-operador-imagen.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250327232750_Usuario-operador-imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:27:50.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250327225649_Usuario-operador-imagen.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250327225649_Usuario-operador-imagen.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250327225649_Usuario-operador-imagen.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250327225649_Usuario-operador-imagen.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250327225649_Usuario-operador-imagen.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:56:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250326225847_Arreglar.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326225847_Arreglar.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250326225847_Arreglar.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326225847_Arreglar.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250326225847_Arreglar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:58:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250326224050_Modelado.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326224050_Modelado.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250326224050_Modelado.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326224050_Modelado.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250326224050_Modelado.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:40:50.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250326214816_dbSetUser.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326214816_dbSetUser.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250326214816_dbSetUser.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326214816_dbSetUser.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250326214816_dbSetUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:48:16.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250326213849_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326213849_Usuario.cs",
+              "RelativeDocumentMoniker": "EscuelaAPI\\Migrations\\20250326213849_Usuario.cs",
+              "ToolTip": "C:\\Users\\Chaqu\\OneDrive\\Escritorio\\ASP NET CLASES\\EscuelaAPI\\EscuelaAPI\\Migrations\\20250326213849_Usuario.cs",
+              "RelativeToolTip": "EscuelaAPI\\Migrations\\20250326213849_Usuario.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:38:49.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

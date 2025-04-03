@@ -1,0 +1,1088 @@
+[
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "EditarDocente",
+    "RelativePath": "api/Acceso/Editar/Docente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "especialidad",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "direccion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "EditarEstudiante",
+    "RelativePath": "api/Acceso/Editar/Estudiante/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tutor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCurso",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "direccion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "EditarOperador",
+    "RelativePath": "api/Acceso/Editar/Operador/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "turnoLaboral",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "direccion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "Login",
+    "RelativePath": "api/Acceso/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "EscuelaAPI.Modelo.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "ObtenerDocente",
+    "RelativePath": "api/Acceso/Obtener/Docente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "ObtenerEstudiante",
+    "RelativePath": "api/Acceso/Obtener/Estudiante/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "RegistrarDocente",
+    "RelativePath": "api/Acceso/Registrar/Docente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "especialidad",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "direccion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "RegistrarEstudiante",
+    "RelativePath": "api/Acceso/Registrar/Estudiante",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tutor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCurso",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "direccion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AccesoController",
+    "Method": "RegistrarOperador",
+    "RelativePath": "api/Acceso/Registrar/Operador",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turnoLaboral",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "clave",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "direccion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.AsistenciaController",
+    "Method": "GetAsistenciaEstudiante",
+    "RelativePath": "api/Asistencia/academico/asistencia/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.DTOs.AsistenciaDTO, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.CalificacionController",
+    "Method": "GetCalificaciones",
+    "RelativePath": "api/Calificacion/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.Calificacion, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.CalificacionController",
+    "Method": "GetEstudiantesPorDocenteYMateria",
+    "RelativePath": "api/Calificacion/listarEstudiantes/{docenteId}/{materiaId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "docenteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "materiaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.DTOs.EstudiantePorMateriaDTO, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.CalificacionController",
+    "Method": "GetMateriasPorDocente",
+    "RelativePath": "api/Calificacion/materias/{idDocente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDocente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EscuelaAPI.Modelo.Materia, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.CalificacionController",
+    "Method": "RegistrarCalificacion",
+    "RelativePath": "api/Calificacion/Registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calificacion",
+        "Type": "EscuelaAPI.Modelo.Calificacion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscuelaAPI.Modelo.Calificacion",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.CursoController",
+    "Method": "ListarCursos",
+    "RelativePath": "api/Curso/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.DocenteController",
+    "Method": "listarDocentes",
+    "RelativePath": "api/Docente/listarDocente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.EstudianteController",
+    "Method": "GetHorarioByEstudiante",
+    "RelativePath": "api/Estudiante/horarioPorEstudiante/{idEstudiante}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.EstudianteController",
+    "Method": "ListarEstudiantes",
+    "RelativePath": "api/Estudiante/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.EstudianteController",
+    "Method": "obtenerEstudiante",
+    "RelativePath": "api/Estudiante/ObtenerE/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.ExamenController",
+    "Method": "GetProximoExamen",
+    "RelativePath": "api/Examen/academico/alertaexamen/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscuelaAPI.Modelo.DTOs.ExamenDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.ExamenController",
+    "Method": "GetExamenesByEstudiante",
+    "RelativePath": "api/Examen/academico/examenes/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.DTOs.ExamenDTO, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.GenerarBoletinController",
+    "Method": "GenerarBoletin",
+    "RelativePath": "api/GenerarBoletin/boletin/{idEstudiante}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.HorarioController",
+    "Method": "GetHorarioEstudiante",
+    "RelativePath": "api/Horario/academico/horario/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.DTOs.HorarioDTO, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.HorarioController",
+    "Method": "designar",
+    "RelativePath": "api/Horario/designarHorario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "h",
+        "Type": "EscuelaAPI.Modelo.Horario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscuelaAPI.Modelo.Horario",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.HorarioController",
+    "Method": "editarHorario",
+    "RelativePath": "api/Horario/editarHorario/{idHorario}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idHorario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "h",
+        "Type": "EscuelaAPI.Modelo.Horario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.HorarioController",
+    "Method": "listarHorarioo",
+    "RelativePath": "api/Horario/listarHorarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.HorarioController",
+    "Method": "ObtenerHorario",
+    "RelativePath": "api/Horario/ObtenerHorario/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.MateriaController",
+    "Method": "ListarMaterias",
+    "RelativePath": "api/Materia/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.MensajeController",
+    "Method": "InsertarMensaje",
+    "RelativePath": "api/Mensaje/{idEstudiante}/{idDocente}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "idDocente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Asunto",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Reunion",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContenidoMensaje",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.MensajeController",
+    "Method": "GetMensajesPorDocente",
+    "RelativePath": "api/Mensaje/docente/{idDocente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDocente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.MensajeController",
+    "Method": "GetHistorialEstudiante",
+    "RelativePath": "api/Mensaje/estudiante/{idEstudiante}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.MensajeController",
+    "Method": "listarDocenteSegunEstudiante",
+    "RelativePath": "api/Mensaje/listarDocentesSegunEstudiantes/{idEstudiante}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.MensajeController",
+    "Method": "obtenerDocenteEspecifico",
+    "RelativePath": "api/Mensaje/obtenerDocenteEspecifico/{idEstudiante}/{idDocente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudiante",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "idDocente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.MensajeController",
+    "Method": "ResponderReunion",
+    "RelativePath": "api/Mensaje/reunion/{idMensaje}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idMensaje",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "respuesta",
+        "Type": "EscuelaAPI.Controllers.MensajeController\u002BResponderReunionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.PagoController",
+    "Method": "GetAlertasPagos",
+    "RelativePath": "api/Pago/alertas/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscuelaAPI.Modelo.DTOs.AlertaPagoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.PagoController",
+    "Method": "GetComprobante",
+    "RelativePath": "api/Pago/comprobante/{pagoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscuelaAPI.Modelo.DTOs.PagoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.PagoController",
+    "Method": "GetPagosPagados",
+    "RelativePath": "api/Pago/pagados/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.DTOs.PagoDTO, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.PagoController",
+    "Method": "PagarPago",
+    "RelativePath": "api/Pago/pagar/{pagoId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscuelaAPI.Modelo.DTOs.PagoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.PagoController",
+    "Method": "GetPagosPendientes",
+    "RelativePath": "api/Pago/pendientes/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.DTOs.PagoDTO, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.PagoController",
+    "Method": "GetProximosPagos",
+    "RelativePath": "api/Pago/proximos/{estudianteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudianteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EscuelaAPI.Modelo.DTOs.ProximoPagoDTO, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscuelaAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EscuelaAPI.WeatherForecast, EscuelaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
